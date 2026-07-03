@@ -7,6 +7,9 @@ body {
 }
 
 img {
+    width: 280px;
+    height: 200px;
+    border-radius: 10px;
     max-width: 100%;
 }
 

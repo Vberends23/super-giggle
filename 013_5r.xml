@@ -16,7 +16,7 @@
    </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="5423" lry="7115" xml:id="facs_1">
-         <graphic url="013_5r.jpeg" width="5423px" height="7115px"/>
+         <graphic url="013_5r.jpg" width="5423px" height="7115px"/>
          <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=MBIILRFGHCRGDMGAXHYEWIFD" width="5423px" height="7115px"/>
          <zone points="4551,304 4846,304 4846,540 4551,540" rendition="TextRegion" xml:id="facs_1_r" subtype="page-number">
             <zone points="4580,289 4737,289 4737,528 4580,528" rendition="Line" xml:id="facs_1_l_28"/>

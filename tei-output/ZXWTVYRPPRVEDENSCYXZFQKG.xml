@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Return of Sherlock Holmes: No. 2. The adventure of the Norwood builder. </title>
+            <author>Arthur Conan Doyle</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished</p>
+            <date>1901</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p><idno>013_5r</idno></p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="5423" lry="7115" xml:id="facs_1">
+         <graphic url="013_5r.jpg" width="5423px" height="7115px"/>
+         <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=MBIILRFGHCRGDMGAXHYEWIFD" width="5423px" height="7115px"/>
+         <zone points="4551,304 4846,304 4846,540 4551,540" rendition="TextRegion" xml:id="facs_1_r" subtype="page-number">
+            <zone points="4580,289 4737,289 4737,528 4580,528" rendition="Line" xml:id="facs_1_l_28"/>
+         </zone>
+         <zone points="138,959 5222,959 5222,1883 138,1883" rendition="TextRegion" xml:id="facs_1_r_1" subtype="Body">
+            <zone points="138,955 5032,955 5032,1363 138,1363" rendition="Line" xml:id="facs_1_l"/>
+            <zone points="157,1275 5127,1275 5127,1665 157,1665" rendition="Line" xml:id="facs_1_l_1"/>
+            <zone points="175,1767 3388,1767 3388,1802 175,1802" rendition="Line" xml:id="facs_1_l_3"/>
+         </zone>
+         <zone points="3416,1525 3917,1525 3917,1689 3416,1689" rendition="TextRegion" xml:id="facs_1_r_2" subtype="scratched_out">
+            <zone points="3464,1621 3872,1621 3872,1663 3464,1663" rendition="Line" xml:id="facs_1_l_29"/>
+         </zone>
+         <zone points="3416,1680 3953,1680 3953,1838 3416,1838" rendition="TextRegion" xml:id="facs_1_r_3" subtype="scratched_out">
+            <zone points="3424,1765 3922,1765 3922,1808 3424,1808" rendition="Line" xml:id="facs_1_l_30"/>
+         </zone>
+         <zone points="3953,1516 4406,1516 4406,1713 3953,1713" rendition="TextRegion" xml:id="facs_1_r_4" subtype="floating">
+            <zone points="3443,1502 4385,1502 4385,1709 3443,1709" rendition="Line" xml:id="facs_1_l_2" subtype="floating"/>
+         </zone>
+         <zone points="132,1620 5217,1620 5217,2750 132,2750" rendition="TextRegion" xml:id="facs_1_r_15" subtype="Body">
+            <zone points="3956,1765 4700,1765 4700,1806 3956,1806" rendition="Line" xml:id="facs_1_l_31"/>
+            <zone points="126,1847 5070,1847 5070,2243 126,2243" rendition="Line" xml:id="facs_1_l_4"/>
+            <zone points="138,2161 5189,2161 5189,2532 138,2532" rendition="Line" xml:id="facs_1_l_5"/>
+            <zone points="144,2456 4391,2456 4391,2890 144,2890" rendition="Line" xml:id="facs_1_l_7"/>
+         </zone>
+         <zone points="2868,2467 3233,2467 3233,2580 2868,2580" rendition="TextRegion" xml:id="facs_1_r_5" subtype="floating">
+            <zone points="2884,2406 3192,2406 3192,2601 2884,2601" rendition="Line" xml:id="facs_1_l_6"/>
+         </zone>
+         <zone points="2865,2594 3258,2594 3258,2748 2865,2748" rendition="TextRegion" xml:id="facs_1_r_6" subtype="scratched_out">
+            <zone points="2893,2663 3221,2663 3221,2697 2893,2697" rendition="Line" xml:id="facs_1_l_32"/>
+         </zone>
+         <zone points="145,2425 5226,2425 5226,3318 145,3318" rendition="TextRegion" xml:id="facs_1_r_16" subtype="Body">
+            <zone points="3267,2663 4426,2663 4426,2697 3267,2697" rendition="Line" xml:id="facs_1_l_33"/>
+            <zone points="1332,2783 4925,2783 4925,3122 1332,3122" rendition="Line" xml:id="facs_1_l_8"/>
+            <zone points="144,3041 5001,3041 5001,3418 144,3418" rendition="Line" xml:id="facs_1_l_11"/>
+         </zone>
+         <zone points="2671,3039 3280,3039 3280,3202 2671,3202" rendition="TextRegion" xml:id="facs_1_r_7" subtype="scratched_out">
+            <zone points="2670,3016 3198,3016 3198,3210 2670,3210" rendition="Line" xml:id="facs_1_l_10"/>
+         </zone>
+         <zone points="2727,3214 3317,3214 3317,3385 2727,3385" rendition="TextRegion" xml:id="facs_1_r_9" subtype="scratched_out">
+            <zone points="2754,3250 3293,3250 3293,3291 2754,3291" rendition="Line" xml:id="facs_1_l_34"/>
+         </zone>
+         <zone points="3102,3001 3593,3001 3593,3223 3102,3223" rendition="TextRegion" xml:id="facs_1_r_8" subtype="floating">
+            <zone points="3072,2997 3537,2997 3537,3210 3072,3210" rendition="Line" xml:id="facs_1_l_9"/>
+         </zone>
+         <zone points="3257,3320 3384,3320 3384,3422 3257,3422" rendition="TextRegion" xml:id="facs_1_r_10" subtype="floating">
+            <zone points="3223,3305 3342,3305 3342,3411 3223,3411" rendition="Line" xml:id="facs_1_l_12"/>
+         </zone>
+         <zone points="125,3134 5201,3134 5201,4869 125,4869" rendition="TextRegion" xml:id="facs_1_r_17" subtype="Body">
+            <zone points="3339,3247 5034,3247 5034,3297 3339,3297" rendition="Line" xml:id="facs_1_l_35"/>
+            <zone points="151,3367 4951,3367 4951,3744 151,3744" rendition="Line" xml:id="facs_1_l_13"/>
+            <zone points="144,3675 5145,3675 5145,4040 144,4040" rendition="Line" xml:id="facs_1_l_14"/>
+            <zone points="132,3964 4844,3964 4844,4360 132,4360" rendition="Line" xml:id="facs_1_l_15"/>
+            <zone points="132,4253 4668,4253 4668,4618 132,4618" rendition="Line" xml:id="facs_1_l_16"/>
+            <zone points="126,4561 5177,4561 5177,4932 126,4932" rendition="Line" xml:id="facs_1_l_18"/>
+         </zone>
+         <zone points="3894,4531 4621,4531 4621,4685 3894,4685" rendition="TextRegion" xml:id="facs_1_r_11">
+            <zone points="3895,4511 4574,4511 4574,4712 3895,4712" rendition="Line" xml:id="facs_1_l_17" subtype="floating"/>
+         </zone>
+         <zone points="4175,4810 4304,4810 4304,4900 4175,4900" rendition="TextRegion" xml:id="facs_1_r_12" subtype="floating">
+            <zone points="4159,4787 4285,4787 4285,4932 4159,4932" rendition="Line" xml:id="facs_1_l_19"/>
+         </zone>
+         <zone points="141,4564 5217,4564 5217,6323 141,6323" rendition="TextRegion" xml:id="facs_1_r_18" subtype="Body">
+            <zone points="4286,4765 5199,4765 5199,4802 4286,4802" rendition="Line" xml:id="facs_1_l_36"/>
+            <zone points="138,4856 5032,4856 5032,5240 138,5240" rendition="Line" xml:id="facs_1_l_20"/>
+            <zone points="163,5189 4988,5189 4988,5522 163,5522" rendition="Line" xml:id="facs_1_l_21"/>
+            <zone points="151,5478 4982,5478 4982,5830 151,5830" rendition="Line" xml:id="facs_1_l_22"/>
+            <zone points="1351,5767 4907,5767 4907,6144 1351,6144" rendition="Line" xml:id="facs_1_l_23"/>
+            <zone points="144,6075 4775,6075 4775,6440 144,6440" rendition="Line" xml:id="facs_1_l_25"/>
+         </zone>
+         <zone points="3366,6018 4112,6018 4112,6224 3366,6224" rendition="TextRegion" xml:id="facs_1_r_13" subtype="floating">
+            <zone points="3361,6000 4096,6000 4096,6257 3361,6257" rendition="Line" xml:id="facs_1_l_24"/>
+         </zone>
+         <zone points="3711,6331 3883,6331 3883,6507 3711,6507" rendition="TextRegion" xml:id="facs_1_r_14" subtype="floating">
+            <zone points="3719,6314 3851,6314 3851,6540 3719,6540" rendition="Line" xml:id="facs_1_l_26"/>
+         </zone>
+         <zone points="172,6162 5002,6162 5002,6648 172,6648" rendition="TextRegion" xml:id="facs_1_r_19" subtype="Body">
+            <zone points="3863,6271 4795,6271 4795,6310 3863,6310" rendition="Line" xml:id="facs_1_l_37"/>
+            <zone points="157,6326 1143,6326 1143,6729 157,6729" rendition="Line" xml:id="facs_1_l_27"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div><pb facs="#facs_1" n="1" xml:id="img_0001"/><fw type="page-number" facs="#facs_1_r" place="top">
+               <lb facs="#facs_1_l_28" n="N001"/>3</fw>
+            <ab facs="#facs_1_r_1" type="Body">
+               <lb facs="#facs_1_l" n="N001"/>the shocking affair of the Dutch steam-ship "Friesland" which
+               <lb facs="#facs_1_l_1" n="N002"/>so nearly cost us both our lives. His cold and proud nature was
+               <lb facs="#facs_1_l_3" n="N003"/>always averse however to anything in the
+            </ab>
+            <ab facs="#facs_1_r_2" type="scratched_out">
+               <lb facs="#facs_1_l_29" n="N001"/><hi style="text-decoration: line-through;">shape</hi>
+            </ab>
+            <ab facs="#facs_1_r_3" type="scratched_out">
+               <lb facs="#facs_1_l_30" n="N001"/><hi style="text-decoration: line-through;">nature</hi>
+            </ab>
+            <ab facs="#facs_1_r_4" type="floating">
+               <lb facs="#facs_1_l_2" n="N001"/>shape
+            </ab>
+            <ab facs="#facs_1_r_15" type="Body">
+               <lb facs="#facs_1_l_31" n="N001"/>of public
+               <lb facs="#facs_1_l_4" n="N002"/>applause and he bound me in the most stringent terms to say no
+               <lb facs="#facs_1_l_5" n="N003"/>further word of himself, his methods or his successes - a prohibition
+               <lb facs="#facs_1_l_7" n="N004"/>which, as I have explained, has only 
+            </ab>
+            <ab facs="#facs_1_r_5" type="floating">
+               <lb facs="#facs_1_l_6" n="N001"/>now
+            </ab>
+            <ab facs="#facs_1_r_6" type="scratched_out">
+               <lb facs="#facs_1_l_32" n="N001"/><hi style="text-decoration: line-through;">just</hi>
+            </ab>
+            <ab facs="#facs_1_r_16" type="Body">
+               <lb facs="#facs_1_l_33" n="N001"/>been removed.
+               <lb facs="#facs_1_l_8" n="N002"/><rs type="person" wikiData="Q4653">Mr. Sherlock Holmes</rs> was leaning back in his chair
+               <lb facs="#facs_1_l_11" n="N003"/>after his whimsical protest, and was 
+            </ab>
+            <ab facs="#facs_1_r_7" type="scratched_out">
+               <lb facs="#facs_1_l_10" n="N001"/><hi style="text-decoration: line-through;">unfolding</hi>
+            </ab>
+            <ab facs="#facs_1_r_9" type="scratched_out">
+               <lb facs="#facs_1_l_34" n="N001"/><hi style="text-decoration: line-through;">opening</hi>
+            </ab>
+            <ab facs="#facs_1_r_8" type="floating">
+               <lb facs="#facs_1_l_9" n="N001"/>unfolding
+            </ab>
+            <ab facs="#facs_1_r_10" type="floating">
+               <lb facs="#facs_1_l_12" n="N001"/>^
+            </ab>
+            <ab facs="#facs_1_r_17" type="Body">
+               <lb facs="#facs_1_l_35" n="N001"/>his morning paper in a
+               <lb facs="#facs_1_l_13" n="N002"/>leisurely fashion when our attention was arrested by a tremendous
+               <lb facs="#facs_1_l_14" n="N003"/>ring at the bell, followed immediately by a hollow drumming sound
+               <lb facs="#facs_1_l_15" n="N004"/>as if someone were beating on the outer door with his fist. As it
+               <lb facs="#facs_1_l_16" n="N005"/>opened there came a tumultuous rush into the hall, rapid feet
+               <lb facs="#facs_1_l_18" n="N006"/>clattered up the stair and an instant later a wild eyed 
+            </ab>
+            <ab facs="#facs_1_r_11" type="">
+               <lb facs="#facs_1_l_17" n="N001"/>and frantic
+            </ab>
+            <ab facs="#facs_1_r_12" type="floating">
+               <lb facs="#facs_1_l_19" n="N001"/>^
+            </ab>
+            <ab facs="#facs_1_r_18" type="Body">
+               <lb facs="#facs_1_l_36" n="N001"/>young man,
+               <lb facs="#facs_1_l_20" n="N002"/>pale, dishevelled and palpitating burst into the room. He looked
+               <lb facs="#facs_1_l_21" n="N003"/>from one to the other of us and under our gaze of inquiry he became
+               <lb facs="#facs_1_l_22" n="N004"/>conscious that some apology was needed for this tumultuous entry.
+               <lb facs="#facs_1_l_23" n="N005"/>"Im sorry, <rs type="person" wikiData="Q4653">Mr Holmes</rs>" he cried "You musn't
+               <lb facs="#facs_1_l_25" n="N006"/>blame me. I am nearly mad. <rs type="person" wikiData="Q4653">Mr. Holmes</rs>, I am 
+            </ab>
+            <ab facs="#facs_1_r_13" type="floating">
+               <lb facs="#facs_1_l_24" n="N001"/>the unhappy
+            </ab>
+            <ab facs="#facs_1_r_14" type="floating">
+               <lb facs="#facs_1_l_26" n="N001"/>^
+            </ab>
+            <ab facs="#facs_1_r_19" type="Body">
+               <lb facs="#facs_1_l_37" n="N001"/>John Hector
+               <lb facs="#facs_1_l_27" n="N002"/>Mc. Farlane"
+            </ab></div>
+      </body>
+   </text>
+</TEI>

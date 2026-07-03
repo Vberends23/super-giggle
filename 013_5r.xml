@@ -109,13 +109,13 @@
                <lb facs="#facs_1_l_3" n="N003"/>always averse however to anything in the
             </ab>
             <ab facs="#facs_1_r_2" type="scratched_out">
-               <lb facs="#facs_1_l_29" n="N001"/><hi style="text-decoration: line-through;">shape</hi>
+               <del><lb facs="#facs_1_l_29" n="N001"/><hi style="text-decoration: line-through;">shape</hi></del> 
             </ab>
             <ab facs="#facs_1_r_3" type="scratched_out">
                <del><lb facs="#facs_1_l_30" n="N001"/><hi style="text-decoration: line-through;">nature</hi></del>
             </ab>
             <ab facs="#facs_1_r_4" type="floating">
-               <lb facs="#facs_1_l_2" n="N001"/>shape
+               <sup><lb facs="#facs_1_l_2" n="N001"/>shape</sup>
             </ab>
             <ab facs="#facs_1_r_15" type="Body">
                <lb facs="#facs_1_l_31" n="N001"/>of public
